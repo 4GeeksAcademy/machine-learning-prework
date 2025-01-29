@@ -1,3 +1,9 @@
+---
+description: >-
+  Master the essentials of Machine Learning with our comprehensive syllabus!
+  Learn Python, popular libraries, and data science fundamentals. Discover more
+  now!
+---
 # Machine Learning Syllabus
 
 Welcome to the Machine Learning Prework at 4Geeks Academy. Below you will find the prework table of contents, it is strongly adviced to follow the content in the same order that the tabled of contents is structured.
